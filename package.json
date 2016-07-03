@@ -1,0 +1,18 @@
+{
+  "name": "roman-numeral-calculator",
+  "version": "1.0.0",
+  "description": "roman numeral calculator kata",
+  "repository": "https://github.com/DarthStrom/roman-numeral-calculator.git",
+  "main": "calculator-spec.js",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  },
+  "scripts": {
+    "test": "jasmine-node calculator-spec.js"
+  },
+  "author": "Jason Duffy (@DarthStrom)",
+  "license": "MIT"
+}
